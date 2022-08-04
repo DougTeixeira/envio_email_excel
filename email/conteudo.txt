@@ -1,0 +1,5 @@
+Nesta linha, fica o assunto do email.
+
+No Python, temos funções integradas que podem lidar com diferentes operações de arquivo em diferentes tipos de arquivo. Um arquivo de texto contém uma sequência de strings em que cada linha termina usando um caractere de nova linha.
+
+Neste tutorial, aprenderemos como ler um arquivo de texto em uma string em Python.
